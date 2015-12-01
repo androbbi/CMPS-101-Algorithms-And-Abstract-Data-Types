@@ -1,0 +1,57 @@
+If sizes aren't the same throw an error
+Create a new matrix
+Copy Matrix you're passing in into a new matrix incase the matrices are the same
+If we have two matrices that are teh same, we do scalar multiplication
+for each element in the array //for loop
+  each element in the array
+  if the copied list is empty 
+  if it's zero move to the zeroth index
+  move to head of row for copied matrix
+  create new list
+  append each entry to the new list
+add list to new matrix
+change the number of nonzero entries in the matrix
+if the copied matrix's length is 0 move to the head of the list and create a new list
+append each entry in the list to the new list
+after that change the number of nonzero entries in the new matrix
+create pointers to the heads of the list (copied matrix and this matrix)
+for each element in the list if we get off the end of the list, we break
+off the list of A add the value of B to the new matrix
+off list B add the value of A to the new matrix
+if you're not off the end of one of the lists
+we get the entries in each list
+if the matrix's 1 column is > matrix's 2 column then we add the entry in matrix 2 to the new matrix
+if matrix 2's column is > matrix's 1 column add the entry in matrix 1, otherwise the columns must be the same
+add the value of the entries together and add them to the new matix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subtract:
+create 2 new matrices
+multiply m by negative one
+then call add
+return whatever is returned from add

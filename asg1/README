@@ -1,0 +1,8 @@
+Antony Robbins
+androbbi@ucsc.edu
+Assignment 1
+List.java, -Our Doubly linked list Class file, completed. 
+ListClient.java (unaltered) -Used to test List.java
+Lex.java -What reads in I/O, uses List.java to sort indeces. Incomplete
+Makefile - Compiles with gmake
+README- the Readme

@@ -1,0 +1,8 @@
+Antony Robbins
+androbbi@ucsc.edu
+Programming assignment 4
+The only issue I'm having with this program is
+printing the paths in FindPath.c
+I'm stuck in the first while loop and when
+I try to break out of it the program segfaults.
+Other than that everything else is perfect
